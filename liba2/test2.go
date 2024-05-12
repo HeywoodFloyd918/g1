@@ -1,8 +1,9 @@
 package liba2
 
 import (
-	"1/crida/crida2"
 	"fmt"
+
+	"github.com/HeywoodFloyd918/g1/crida/crida2"
 )
 
 func Sum2() {

@@ -1,9 +1,10 @@
 package main
 
 import (
-	"1/liba"
 	"fmt"
 	"net/http"
+
+	"github.com/HeywoodFloyd918/g1/liba"
 
 	"github.com/go-chi/chi/v5"
 )
