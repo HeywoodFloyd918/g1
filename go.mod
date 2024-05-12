@@ -1,4 +1,4 @@
-module 1
+module github.com/HeywoodFloyd918/g1
 
 go 1.22.2
 
